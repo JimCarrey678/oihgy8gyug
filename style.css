@@ -69,3 +69,6 @@ padding: 16px 0}
     color: var(--branco-principal);
     display: block;
 }
+.lista a:active{
+    color: paleturquoise;
+}
